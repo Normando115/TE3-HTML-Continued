@@ -1,0 +1,32 @@
+<!DOCTYPE html><html lang="en">
+<html>
+
+<head>
+  <title> Hello World </title>
+  <style>
+.myDiv {
+  border: 5px outset red;
+  background-color: lightblue;
+  text-align: center;
+}
+</style>
+</head>
+
+
+<body>
+
+  <p>This is the original Skull </p>
+  <img src="Images/skullOriginal.jpg" alt="OSkull" width="750" height="750">
+    <p>This is the resized Skull </p>
+    <img src="Images/skullResized.jpg" alt="RSkull" width="750" height="750">
+    <p> </p>
+      <p>This is the original Wolf </p>
+      <img src="Images/WolfOringinal.png" alt="OWolf" width="750" height="750">
+        <p>This is the resized Wolf </p>
+            <img src="Images/WolfResized.png" alt="RWolf" width="750" height="750">
+
+</body>
+
+
+
+</html>
